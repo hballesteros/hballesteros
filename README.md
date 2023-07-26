@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi, I´m Hugo 👋
+I´m a Frontend & Backend developer 💻
 
-<!--
-**hballesteros/hballesteros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on fullstack projects
+- 🌱 I’m currently learning Qwik and Nest
+- 👯 I’m looking for job in the IT industry
+- 💬 Ask me about everything you want to know
+- 📫 How to reach me: my [Linkedin](https://www.linkedin.com/in/hballesteros/)
 
-Here are some ideas to get you started:
+## Hardskills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CSS
+- Sass
+- Bootstrap
+- TailwindCSS
+- Javascript
+- Typescript
+- React 
+- Qwik
+- Astro
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- Jest
+- Vitest
+- Git 
