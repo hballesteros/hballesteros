@@ -7,6 +7,8 @@ I´m a Frontend & Backend developer 💻
 - 💬 Ask me about everything you want to know
 - 📫 How to reach me: my [Linkedin](https://www.linkedin.com/in/hballesteros/)
 
+## Skills 
+
 **BACKEND**
 
 - PHP
