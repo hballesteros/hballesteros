@@ -11,7 +11,7 @@ I´m a Frontend & Backend developer 💻
 
 **BACKEND**
 
-- PHP
+- [PHP](https://teamtreehouse.com/profiles/hugoballesteros)
 - MySQL
 - MongoDB
 - PostgreSQL
@@ -30,7 +30,7 @@ I´m a Frontend & Backend developer 💻
 - jQuery
 - Bootstrap
 - Sass
-- WordPress
+- [WordPress](https://teamtreehouse.com/profiles/hugoballesteros)
 - Typescript
 - [React.js](https://fernando-herrera.com/cursos-api/application/archivos/6002/pdfs/react-pro-149.pdf)
 - Tailwind
@@ -53,4 +53,4 @@ I´m a Frontend & Backend developer 💻
 - Jest
 - Vitest
 - Google Test
-- Visual Studio Code
+- [Visual Studio Code](https://fernando-herrera.com/cursos-api/application/archivos/6002/pdfs/vscode-92.pdf)
