@@ -7,55 +7,57 @@ I´m a Frontend & Backend developer 💻
 - 💬 Ask me about everything you want to know
 - 📫 How to reach me: my [Linkedin](https://www.linkedin.com/in/hballesteros/)
 
-## Skills 
+## 🛠 &nbsp;Skills 
 
 **BACKEND**
 
-- [PHP](https://teamtreehouse.com/profiles/hugoballesteros)
-- MySQL
-- MongoDB
-- PostgreSQL
-- Express
-- RESTful APIs
-- GraphQL
-- [Node.js](https://fernando-herrera.com/cursos-api/application/archivos/6002/pdfs/node-cero-experto-465.pdf)
-- supabase
-- Firebase
+![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+<br/>
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
 
 **FRONTEND**
 
-- CSS
-- HTML
-- [Javascript](https://fernando-herrera.com/cursos-api/application/archivos/6002/pdfs/js-moderno-41.pdf)
-- jQuery
-- Bootstrap
-- Sass
-- [WordPress](https://teamtreehouse.com/profiles/hugoballesteros)
-- Typescript
-- [React.js](https://fernando-herrera.com/cursos-api/application/archivos/6002/pdfs/react-pro-149.pdf)
-- Tailwind
-- Next.js
-- Astro
-- [Qwik](https://fernando-herrera.com/cursos-api/application/archivos/6002/pdfs/qwik-intro-173.pdf)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
+<br/>
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
+<br/>
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
 
 **OTHER**
 
-- C / C++
-- Fortran
-- Perl
-- Python
-- Data Science
-- Git
-- Github / Bitbucket / GitLab
-- Semantic Versioning
-- Docker
-- Storybook
-- Jest
-- Vitest
-- Google Test
-- [Visual Studio Code](https://fernando-herrera.com/cursos-api/application/archivos/6002/pdfs/vscode-92.pdf)
+![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=c)
+![Fortran](https://img.shields.io/badge/-Fortran-333333?style=flat&logo=fortran)
+![Perl](https://img.shields.io/badge/-Perl-333333?style=flat&logo=perl)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+<br/>
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitLab)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<br/>
+![Google Test](https://img.shields.io/badge/-Google%20Test-333333?style=flat&logo=google)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
 
-  <h3> 📊 &nbsp;Github stats</h3>
+## 📊 &nbsp;Github stats 
 
 <a href="https://github.com/noel-lopez">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hballesteros&theme=buefy&show_icons=true" />
