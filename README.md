@@ -54,3 +54,12 @@ I´m a Frontend & Backend developer 💻
 - Vitest
 - Google Test
 - [Visual Studio Code](https://fernando-herrera.com/cursos-api/application/archivos/6002/pdfs/vscode-92.pdf)
+
+  <h3> 📊 &nbsp;Github stats</h3>
+
+<a href="https://github.com/noel-lopez">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hballesteros&theme=buefy&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hballesteros&theme=buefy&layout=compact" />
+</a>
+
+<br/>
