@@ -65,3 +65,10 @@ I´m a Frontend & Backend developer 💻
 </a>
 
 <br/>
+
+## 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hballesteros/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hugo%20Ballesteros-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:hugo@boahstudio.com"><img alt="Email" src="https://img.shields.io/badge/Email-hugo@boahstudio.com-blue?style=flat-square&logo=gmail"></a>
+</p>
