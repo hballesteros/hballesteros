@@ -12,11 +12,12 @@ I´m a Frontend & Backend developer 💻
 **BACKEND**
 
 ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 <br/>
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
